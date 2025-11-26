@@ -13,7 +13,8 @@
   [![Blender](https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=blender&logoColor=white&color=gray)](https://projects.blender.org/xan2622?tab=activity) 
   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xan2622) 
   [![Discord](https://img.shields.io/badge/Discord-5165f7?style=for-the-badge&logo=discord&logoColor=fbfbfb)](https://discord.gg/DSVQthQKsf) 
-  
+  [![BlenderArtists.org](https://img.shields.io/badge/BlenderArtists.org-e86800?style=for-the-badge&logo=blender&logoColor=white)](https://blenderartists.org/u/xan2622/summary)
+
 </div>
 
 
