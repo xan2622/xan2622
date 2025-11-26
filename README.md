@@ -1,4 +1,43 @@
-## Hi there 👋
+
+<div align="center">  
+  
+  <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/b381f3e5-7c66-411a-8c9e-3d6ff171454e" />
+
+</div>
+
+
+<div align="center">  
+  
+  <br><br>
+  [![GitLab](https://img.shields.io/badge/GitLab-DF3629?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/xan2622) 
+  [![Blender](https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=blender&logoColor=white&color=gray)](https://projects.blender.org/xan2622?tab=activity) 
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xan2622)  
+  
+</div>
+
+
+## 🤔 Who am I?
+
+Just a Blender supporter and part-time developer.
+
+## 📈 GitHub Activity
+  
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=xan2622)](https://git.io/streak-stats)
+
+  [![xan2622's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xan2622&theme=material-palenight&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+</div>
+
+
+## Some projects I've worked on:
+
+* [PurrMoji](https://github.com/xan2622/PurrMoji-Emoji-Picker) (a cross-platform open-source emoji picker written in Python) 
+* [3D Navigation](https://github.com/xan2622/3D-Navigation) (a Blender add-on I updated)
+* [F-117A Clickable Cockpit](https://github.com/xan2622/F-117A-Clickable-Cockpit) (a AutoHotKey v2 script) 
+
+
 
 <!--
 **xan2622/xan2622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
