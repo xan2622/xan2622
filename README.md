@@ -11,7 +11,9 @@
   <br><br>
   [![GitLab](https://img.shields.io/badge/GitLab-DF3629?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/xan2622) 
   [![Blender](https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=blender&logoColor=white&color=gray)](https://projects.blender.org/xan2622?tab=activity) 
-  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xan2622)  
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xan2622) 
+  ![](https://img.shields.io/badge/Discord-5165f7?style=for-the-badge&logo=discord&logoColor=fbfbfb&link=https%3A%2F%2Fdiscord.gg%2FDSVQthQKsf)
+
   
 </div>
 
