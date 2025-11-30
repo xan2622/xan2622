@@ -26,7 +26,7 @@ Just a Blender supporter and part-time developer.
   
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=xan2622)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=xan2622&theme=catppuccin-frappe&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
   [![xan2622's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xan2622&theme=material-palenight&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
