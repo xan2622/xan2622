@@ -3,7 +3,7 @@
 
   <!-- “Emoji © Microsoft — under MIT License (Fluent UI Emoji) -->
   <!-- Source: https://github.com/microsoft/fluentui-emoji/blob/main/assets/Cat%20face/3D/cat_face_3d.png -->
-  <img width="256" height="256" alt="Cat Face" src="https://github.com/user-attachments/assets/c3fd9f34-ba65-40cb-b99f-9c5f7b51319d" />
+  <!-- <img width="256" height="256" alt="Cat Face" src="https://github.com/user-attachments/assets/c3fd9f34-ba65-40cb-b99f-9c5f7b51319d" /> -->
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ## 🤔 Who am I?
 
-Just a Blender supporter and part-time developer.
+Just a Blender supporter, RTS games player, part-time developer.
 
 ## 📈 GitHub Activity
   
