@@ -16,13 +16,14 @@
   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xan2622) 
   [![Discord](https://img.shields.io/badge/Discord-5165f7?style=for-the-badge&logo=discord&logoColor=fbfbfb)](https://discord.gg/DSVQthQKsf) 
   [![BlenderArtists.org](https://img.shields.io/badge/BlenderArtists.org-e86800?style=for-the-badge&logo=blender&logoColor=white)](https://blenderartists.org/u/xan2622/summary)
+  [![Support](https://img.shields.io/badge/Support-D84A4F?style=for-the-badge&logo=kofi&logoColor=white)](https://www.patreon.com/c/xan2622)
   
 </div>
 
 
 ## 🤔 Who am I?
 
-Just a Blender supporter, RTS games player, part-time developer.
+Just a Blender user, RTS games player, part-time developer.
 
 ## 📈 GitHub Activity
   
